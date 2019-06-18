@@ -18,6 +18,9 @@ npm run build
 npm run build --report
 ```
 
+在线展示： https://homxuwang.github.io/ShowUrDatas/
+由于gitpages的原因，无法加载地图的json文件。如果想看地图效果，建议clone后在本地运行:)
+
 界面截图:
 ![截图](./主界面.png)
 
